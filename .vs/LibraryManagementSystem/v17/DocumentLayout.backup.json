@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C13012D4-3B84-4DAA-B6F0-DBC103DB76D9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13012D4-3B84-4DAA-B6F0-DBC103DB76D9}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD02FA54-818F-42DE-A9CD-E4E16CB84BE4}|LibrarySistem.data\\LibrarySystem.Data.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysistem.data\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD02FA54-818F-42DE-A9CD-E4E16CB84BE4}|LibrarySistem.data\\LibrarySystem.Data.csproj|solutionrelative:librarysistem.data\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D9C29-BC23-4452-9756-A3356468D941}|LibrarySystem.core\\LibrarySystem.core.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysystem.core\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D9C29-BC23-4452-9756-A3356468D941}|LibrarySystem.core\\LibrarySystem.core.csproj|solutionrelative:librarysystem.core\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A35D75-ACBD-4D63-9C7E-6310CC5397B1}|LibrarySystem.Services\\LibrarySystem.Services.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysystem.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A35D75-ACBD-4D63-9C7E-6310CC5397B1}|LibrarySystem.Services\\LibrarySystem.Services.csproj|solutionrelative:librarysystem.services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD02FA54-818F-42DE-A9CD-E4E16CB84BE4}|LibrarySistem.data\\LibrarySystem.Data.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysistem.data\\librarysystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD02FA54-818F-42DE-A9CD-E4E16CB84BE4}|LibrarySistem.data\\LibrarySystem.Data.csproj|solutionrelative:librarysistem.data\\librarysystem.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD02FA54-818F-42DE-A9CD-E4E16CB84BE4}|LibrarySistem.data\\LibrarySistem.data.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysistem.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD02FA54-818F-42DE-A9CD-E4E16CB84BE4}|LibrarySistem.data\\LibrarySistem.data.csproj|solutionrelative:librarysistem.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A35D75-ACBD-4D63-9C7E-6310CC5397B1}|LibrarySystem.Services\\LibrarySystem.Services.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysystem.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A35D75-ACBD-4D63-9C7E-6310CC5397B1}|LibrarySystem.Services\\LibrarySystem.Services.csproj|solutionrelative:librarysystem.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{847D9C29-BC23-4452-9756-A3356468D941}|LibrarySystem.core\\LibrarySystem.core.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\librarysystem.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{847D9C29-BC23-4452-9756-A3356468D941}|LibrarySystem.core\\LibrarySystem.core.csproj|solutionrelative:librarysystem.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A49E425-F6D0-411B-AE1D-4714D73B1A65}|ClassLibrary\\ClassLibrary.csproj|c:\\users\\cernu\\source\\repos\\librarymanagementsystem\\classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A49E425-F6D0-411B-AE1D-4714D73B1A65}|ClassLibrary\\ClassLibrary.csproj|solutionrelative:classlibrary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.Services\\BookService.cs",
+              "RelativeToolTip": "LibrarySystem.Services\\BookService.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:46:23.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySistem.data\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibrarySistem.data\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySistem.data\\BookRepository.cs",
+              "RelativeToolTip": "LibrarySistem.data\\BookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:39:45.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.core\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.core\\Book.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.core\\Book.cs",
+              "RelativeToolTip": "LibrarySystem.core\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:38:28.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:26:29.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrarySystem.Data",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySistem.data\\LibrarySystem.Data.csproj",
+              "RelativeDocumentMoniker": "LibrarySistem.data\\LibrarySystem.Data.csproj",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySistem.data\\LibrarySystem.Data.csproj",
+              "RelativeToolTip": "LibrarySistem.data\\LibrarySystem.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-16T08:36:08.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySistem.data\\Class1.cs",
+              "RelativeDocumentMoniker": "LibrarySistem.data\\Class1.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySistem.data\\Class1.cs",
+              "RelativeToolTip": "LibrarySistem.data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:35:05.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.Services\\Class1.cs",
+              "RelativeToolTip": "LibrarySystem.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:35:41.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.core\\Class1.cs",
+              "RelativeDocumentMoniker": "LibrarySystem.core\\Class1.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\LibrarySystem.core\\Class1.cs",
+              "RelativeToolTip": "LibrarySystem.core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:34:25.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\ClassLibrary\\Program.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Program.cs",
+              "ToolTip": "C:\\Users\\cernu\\source\\repos\\LibraryManagementSystem\\ClassLibrary\\Program.cs",
+              "RelativeToolTip": "ClassLibrary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:32:03.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
